@@ -58,7 +58,7 @@ nothing to commit, working tree clean
 
 Answer 8:
 commit 96813d9bc3769cb5dd8f0562bd7edee6f98fec19 (HEAD -> master)
-Author: Ramez <ra579529@ohio.edu>
+Author: Ramez <ra579529@ohio.edu>cd
 Date:   Thu May 14 16:17:21 2020 -0400
 
 Answer 9:
@@ -76,3 +76,9 @@ The hint suggests I use the command git pull to pull the remote changes.
 
 Answer 12:
 Yes, the changes I made on Github are now reflected in my local copy.
+
+Answer 13:
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        5/14/2020  11:34 PM            302 .gitignore
+-a----        5/14/2020  11:34 PM             11 README.md
